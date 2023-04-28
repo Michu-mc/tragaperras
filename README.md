@@ -2,5 +2,6 @@
 
 Desarrollo de una tragaperras sencilla en JAVA
 
-A continuación se irá actualizando el proyecto 
+Se irá actualizando el proyecto con modificaciones
+de mejora y se hará un cambio de lenguaje
 para que esté disponible para Android (Kotlin)
